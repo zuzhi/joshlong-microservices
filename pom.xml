@@ -6,6 +6,8 @@
   <groupId>io.zuzhi</groupId>
   <artifactId>joshlong-microservices</artifactId>
   <version>1.0.0</version>
+  <packaging>pom</packaging>
+  <name>joshlong-microservices</name>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
