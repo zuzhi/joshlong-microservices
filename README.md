@@ -190,7 +190,7 @@ http://localhost:8000/reservations
 
 #### Reservation Client
 
-proxy
+proxy / gateway
 
 GET http://localhost:9999/reservation-service/reservations
 
@@ -233,6 +233,7 @@ Expose port 15672
 
 Go to http://localhost:15672
 
+Sign in with user `guest` and password `guest`
 
 ## TODO
 
